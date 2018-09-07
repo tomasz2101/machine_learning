@@ -1,2 +1,8 @@
 tensorflow
 matplotlib
+pandas
+retro
+sklearn
+scipy
+gym-retro
+scikit-image

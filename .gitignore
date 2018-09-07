@@ -1,0 +1,5 @@
+atari/games
+atari/models
+.venv
+.DS_Store
+.idea/
