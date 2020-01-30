@@ -3,3 +3,6 @@ atari/models
 .venv
 .DS_Store
 .idea/
+venv
+.history
+.vscode
